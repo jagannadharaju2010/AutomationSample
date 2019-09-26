@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Sample test execution]]>
+    </line>
+  </reporter-output>
+  <suite name="Test.SampleTest" duration-ms="46" started-at="2019-09-26T07:05:02Z" finished-at="2019-09-26T07:05:02Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="46" started-at="2019-09-26T07:05:02Z" finished-at="2019-09-26T07:05:02Z">
+      <class name="Test.SampleTest">
+        <test-method status="PASS" signature="meth1()[pri:0, instance:Test.SampleTest@42d3bd8b]" name="meth1" duration-ms="11" started-at="2019-09-26T07:05:02Z" finished-at="2019-09-26T07:05:02Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Sample test execution]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- meth1 -->
+      </class> <!-- Test.SampleTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Test.SampleTest -->
+</testng-results>

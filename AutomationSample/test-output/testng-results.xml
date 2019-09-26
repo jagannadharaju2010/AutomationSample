@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Sample execution two]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="66" started-at="2019-09-26T07:06:51Z" finished-at="2019-09-26T07:06:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="66" started-at="2019-09-26T07:06:51Z" finished-at="2019-09-26T07:06:51Z">
+      <class name="Test.SampleTest2">
+        <test-method status="PASS" signature="math2()[pri:0, instance:Test.SampleTest2@6a4f787b]" name="math2" duration-ms="17" started-at="2019-09-26T07:06:51Z" finished-at="2019-09-26T07:06:51Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Sample execution two]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- math2 -->
+      </class> <!-- Test.SampleTest2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
